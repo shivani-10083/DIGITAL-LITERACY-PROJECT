@@ -20,7 +20,7 @@ It consists of five key tasks - infographic design, portfolio development, explo
 ## Task 1: Infographic
 Created an infographic for digital literacy awareness, focusing on aspects such as internet safety, useful digital tools, and email etiquette.
 
-link
+https://github.com/shivani-10083/DIGITAL-LITERACY-PROJECT/tree/main/task-1-presentation
 
 ## Task 2: Digital Portfolio
 Built a professional online presence using platforms like GitHub, LinkedIn, and Kaggle to showcase skills and academic profile.
@@ -30,19 +30,19 @@ link
 ## Task 3: Coding & Platforms
 Practiced coding on HackerRank and created a Google Form quiz for digital literacy awareness, and spread awareness among peers.
 
-link
+Google Form - https://docs.google.com/forms/d/e/1FAIpQLSe7EDt750Em5w7T4GhMJZRJDqag8LlHQgW73cmQ_ERQcww31A/viewform?usp=header
 
-link
+https://github.com/shivani-10083/DIGITAL-LITERACY-PROJECT/tree/main/task-3-platforms
 
 ## Task 4: Email Etiquette
 Drafted professional emails and created a social media checklist to demonstrate proper online communication practices.
 
-link
+https://github.com/shivani-10083/DIGITAL-LITERACY-PROJECT/tree/main/task-4-email-etiquette
 
 ## Task 5: Cybercrime Awareness
 Analyzed a identity theft case study and created a prevention checklist to spread awareness about online safety and cyber threats.
 
-link
+https://github.com/shivani-10083/DIGITAL-LITERACY-PROJECT/tree/main/task-5-cybercrime
 
 # PROJECT HIGHLIGHTS
 -Learned cyber safety and responsible internet usage
