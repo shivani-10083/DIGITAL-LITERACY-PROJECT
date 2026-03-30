@@ -25,7 +25,7 @@ https://github.com/shivani-10083/DIGITAL-LITERACY-PROJECT/tree/main/task-1-prese
 ## Task 2: Digital Portfolio
 Built a professional online presence using platforms like GitHub, LinkedIn, and Kaggle to showcase skills and academic profile.
 
-link
+https://github.com/shivani-10083/DIGITAL-LITERACY-PROJECT/tree/main/task-2-portfolio
 
 ## Task 3: Coding & Platforms
 Practiced coding on HackerRank and created a Google Form quiz for digital literacy awareness, and spread awareness among peers.
